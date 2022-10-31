@@ -1,8 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31321.278
-MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coterie.Api", "Coterie.Api\Coterie.Api.csproj", "{AA0ECD36-26B7-4112-927F-9270B985BA10}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coterie.UnitTests", "Coterie.UnitTests\Coterie.UnitTests.csproj", "{4EEA3805-F777-4089-805D-1928EC2CF1FA}"
@@ -21,11 +18,5 @@ Global
 		{4EEA3805-F777-4089-805D-1928EC2CF1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EEA3805-F777-4089-805D-1928EC2CF1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EEA3805-F777-4089-805D-1928EC2CF1FA}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F529B0CC-33E6-40D8-A850-011208B1F6D1}
 	EndGlobalSection
 EndGlobal
