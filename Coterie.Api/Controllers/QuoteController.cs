@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 using Coterie.Api.Interfaces;
 using Coterie.Api.Models.Requests;
 using Coterie.Api.Models.Responses;

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Coterie.Api.Interfaces;
-using Coterie.Api.Models.Responses;
 
 namespace Coterie.Api.Services
 {
